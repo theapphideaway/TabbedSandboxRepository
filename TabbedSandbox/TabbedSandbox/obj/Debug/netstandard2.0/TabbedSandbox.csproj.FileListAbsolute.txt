@@ -1,0 +1,16 @@
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\bin\Debug\netstandard2.0\TabbedSandbox.deps.json
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\bin\Debug\netstandard2.0\TabbedSandbox.dll
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\bin\Debug\netstandard2.0\TabbedSandbox.pdb
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\TabbedSandbox.csprojAssemblyReference.cache
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\TabbedSandbox.csproj.CoreCompileInputs.cache
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\TabbedSandbox.AssemblyInfoInputs.cache
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\TabbedSandbox.AssemblyInfo.cs
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\TabbedSandbox.dll
+C:\Users\ian.schoenrock\source\repos\TabbedSandbox\TabbedSandbox\TabbedSandbox\obj\Debug\netstandard2.0\TabbedSandbox.pdb
